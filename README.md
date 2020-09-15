@@ -20,5 +20,7 @@
 ## EVENT DELEGATION
 ### Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a parent element. 
 
+![event d](https://user-images.githubusercontent.com/70091044/93264937-8d96da80-f7b0-11ea-993a-0fe303931e6c.PNG)
+
 
 
