@@ -9,3 +9,8 @@
 
 ## EVENT LISTENERS 
 ### Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers. 
+![even l](https://user-images.githubusercontent.com/70091044/93264359-ad79ce80-f7af-11ea-9301-73c10919ee8c.PNG)
+
+## THE EVENT OBJECT 
+### When an event occurs, the event object tells you information about the event, and the element it happened upon. 
+
