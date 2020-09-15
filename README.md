@@ -14,3 +14,11 @@
 ## THE EVENT OBJECT 
 ### When an event occurs, the event object tells you information about the event, and the element it happened upon. 
 
+![even object](https://user-images.githubusercontent.com/70091044/93264692-2aa54380-f7b0-11ea-961e-fa3412488b38.PNG)
+
+
+## EVENT DELEGATION
+### Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a parent element. 
+
+
+
