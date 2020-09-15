@@ -5,3 +5,7 @@
 ![event](https://user-images.githubusercontent.com/70091044/93263272-3c85e700-f7ae-11ea-9924-4a870f375986.PNG)
 
 ## USING DOM EVENT HANDLERS 
+![event example](https://user-images.githubusercontent.com/70091044/93263897-10b73100-f7af-11ea-9c2e-ca68c5d3a1be.PNG)
+
+## EVENT LISTENERS 
+### Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers. 
